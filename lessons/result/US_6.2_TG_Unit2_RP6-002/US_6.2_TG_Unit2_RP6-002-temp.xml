@@ -3,8 +3,29 @@
 				<objective><![CDATA[Objective of the lesson 杨 <math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt><mo>×</mo><msqrt><mn>123</mn></msqrt><mo>×</mo><msqrt><mn>3123</mn></msqrt></math>]]>
 </objective>
 				<prerequisites>
-					</prerequisites>
+					<prerequisite> </prerequisite></prerequisites>
 				
 				
 				
-			</lesson>
+			<module> <misc><![CDATA[<table>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>测试 </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</table>
+<p>wrwer<math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math></p>]]>
+</misc></module></lesson>
