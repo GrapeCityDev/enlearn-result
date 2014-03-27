@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="JumpMathC.xsl"?>
-<lesson id="Enter ID" name="Enter name">
+<lesson id="Enter ID" name="Enter name?">
 				<objective><![CDATA[Objective of the lesson <math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt><mo>?</mo><mn>123</mn></math>]]>
 </objective>
 				
