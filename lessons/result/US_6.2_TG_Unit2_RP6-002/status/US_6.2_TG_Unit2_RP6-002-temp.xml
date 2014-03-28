@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <lesson id="123" name="测试">
-			<pages><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>]]></pages><pages> </pages></lesson>
+			<pages><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>]]></pages><pages>Knows that a unit rate is a rate with one term equal to 1 Knows units for money (dollars and cents) Knows units for distance (kilometers and miles) Knows units for time (weeks and hours) Fractions and Decimals Converting simple fractions to decimals</pages><pages> Text outside the rectangles are additional notes and instructions for the teacher.
+Rectangles are slides or activities being displayed by the demo tablet. Most slides should be read or paraphrased. Additional discussion and real-world connections are encouraged.
+Instruction is above/below the slide/activity depending whether it is something that should be done earlier or later in the discussion.</pages></lesson>
