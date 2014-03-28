@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <lesson id="123" name="测试">
-			<pages><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>]]></pages></lesson>
+			<pages><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>]]></pages><pages> </pages></lesson>
