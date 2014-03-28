@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <lesson id="123" name="123">
-			<module> <teacher-display> <demo> </demo></teacher-display></module></lesson>
+			<module> <teacher-display> <demo> <description>aaaaaaaaaaaa</description></demo></teacher-display></module></lesson>
