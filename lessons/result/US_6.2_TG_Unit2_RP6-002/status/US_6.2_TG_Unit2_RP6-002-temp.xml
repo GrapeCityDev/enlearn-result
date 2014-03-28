@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <lesson id="123" name="123">
-			<module> <teacher-display> <exercise> </exercise><teachernote> </teachernote><exercise> <xs:description xmlns:xs="http://www.w3.org/2001/XMLSchema"> </xs:description></exercise></teacher-display></module></lesson>
+			<module> <teacher-display> <exercise> <answer> </answer></exercise><teachernote> </teachernote><exercise> <xs:description xmlns:xs="http://www.w3.org/2001/XMLSchema"> </xs:description></exercise></teacher-display></module></lesson>
