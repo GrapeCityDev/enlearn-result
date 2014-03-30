@@ -1,1 +1,1 @@
-type:textContent
+type:textContent|601$847$1$user_mark$|1055$1361$2$user_mark$
