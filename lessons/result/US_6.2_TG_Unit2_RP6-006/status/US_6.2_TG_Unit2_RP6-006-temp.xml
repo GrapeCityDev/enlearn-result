@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<lesson id="">
+<lesson id="R">
 			<module> <teacher-display> <demo> <description><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>]]></description></demo><misc>aaa</misc></teacher-display><misc> <table> <tr> <td>1</td></tr></table></misc></module></lesson>
