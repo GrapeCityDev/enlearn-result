@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<lesson></lesson>
+<lesson>
+    <module>
+        <teacher-display>
+            <demo>
+                <description></description>
+            </demo>
+        </teacher-display>
+    </module>
+</lesson>
