@@ -6,7 +6,7 @@
     <prerequisites>
         <prerequisite name="aa"></prerequisite>
     </prerequisites>
-    <module>
+    <module name="f">
         <misc>
             <example>
                 <![CDATA[<p><math
