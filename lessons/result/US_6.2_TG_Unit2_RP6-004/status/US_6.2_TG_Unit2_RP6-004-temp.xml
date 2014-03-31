@@ -4,7 +4,11 @@
     <module>
         <teacher-display>
             <demo>
-                <description></description>
+                <description>
+                    <![CDATA[
+                    AA<strong>D</strong>
+                ]]>
+                </description>
             </demo>
         </teacher-display>
     </module>
