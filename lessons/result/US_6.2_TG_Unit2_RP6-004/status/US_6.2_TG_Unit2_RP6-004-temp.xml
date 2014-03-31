@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <lesson id="AA" name="AA">
-    <pages></pages>
-    <standards>AA</standards>
-    <objective>aa&lt;test&gt;&lt;/test&gt;</objective>
-    <prerequisites>
-        <prerequisite name="aa"></prerequisite>
-    </prerequisites>
-    <module name="f">
-        <misc>
-            <example>
-                <![CDATA[
-                
-                <p><math
-                xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>234</mn></msqrt></math></p><table><tr><td></td><td></td></tr><tr><td></td><td>34</td></tr></table><p></p><p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABWCAYAAABCdPE+AAAACXBIWXMAABcRAAAXEQHKJvM/AAAENUlEQVR4Xu2dMY7bMBBF5wp7hb2CL6Biy7S+gut0blP6CPEV9gpuUqbwFQy4CFLuFRwxIsURTXJIihqL0Bh4gEWOqK9vYiQthlp4PB4g8EEGCHVRn4fAChkg1GX88r2na4SWNY9fOir/rIXGNTctvqNi14IYzowYzowYzowYzowYzowYzowYzowYzowYzswmDe8/u54L2v+ht/ee2JMT53KkjhfQXCb+lZRo1mZ/RQw8OPGfYrimRHP/uep91Ix+Q+1mJt+c+JvbNodNGd5/3n2mon418788bRdq7FS2ZvhOx396+k5uH/qBzjBNLepHOFHHIzTniV8DuZqVgc62m5/dNPPh9LtccXwKmzLcs7/vgnhC/Udk7B61H2DI7ZP4FDZtuDPWEY23023vkXiTnr5CMYH9xHA0nsnjSbd6YGd5clrZlOHI0EOg38zypDQhhtPxBx3/dJei+01OP+htY+jOE2tSStY9+tYMfwP7lPnp9J11u+p/021mxivjQxfNpPTj0Zwnfg2UaAY7y0PsnXj3by6Y7AeizRmu99t7jFTp5Cl16Hg1028oVn3PmtkezWXiX0njmpsW31Gxa0EMZ0YMZ0YMZ0YMZ0YMZ0YMZ0YMZwYbftf87PnRCPeeP9CeZsXovMDD6Pzvnl+NcO/5C+1pVozOd1QeWguNa25afEfFrgUxnBkxnBkxnBkxnBkxnBkxnBkxnBkxnBlWw2EoTfBWPZXAobk2VQwHu4wjWpMHQ1WTKSPbo2P6IH+YOZqdcXDl7CxNFGisMvEwXeUVNBxscfu73qZOkjy5Us2ecSgtyZoo0Fj54sGaaOr1Yoar2r2Lsz3+ACWUaM4FhmUnN01ylWxkvFmGGyFkmS845WEw5POsYnbPmNmac4EhXaoJVTwxnPHKDAc7Qz8ow8GW9u5Q202b7i48PaeeXK7mXNA5euvJS0Ca08WDveAd9TZl+P9iSKcttjhV9XkLKwPiSc25oHM8U7E5IM1p4mGosVaz84raKMMvWDig9TEwTTN4SfbVHSciPqq5BH2OY614LZDmNPHakElOg4jhYIvgcUF7NGWALQ3+SBQf1ZxL7HzmgjTT4sEWsx+d9pjhap+siyPY3Pn0soGA+KDmEmCh2a3HzjL8iuJi4NW8k9vBFOCFhsNCuRuNv7jhara4b2gwhnpXEYBNKVTqITXngrRF01kpSHO5eAikFHCeLlG7uWhOTIfpRZN8qpujOTLm0wsOarK04arde7cB8Re/JD3VzdEcGM+8zCArBeawtOHRxUcwXFDdxU3JdwZzNEf0qC+L5G99jPmGBwY2s2WRXKiPUVUzB0sa/vR0WZvamjlYzHAOGtfctPiOil0LYjgzYjgzYjgzYjgzYjgzYjgzPsMFHsgAoS7kv7RaK98SYtYHlXuEupABQl3IAKEuZIBQFzJAqAsZINTlH6jUnB5/O1fBAAAAAElFTkSuQmCC" alt="385865.png" /></p>undefined]]>undefined</example>undefinedundefined</misc>undefinedundefined</module>undefinedundefined</lesson>
+    
+    
+    
+    
+    undefinedundefinedundefined</lesson>
