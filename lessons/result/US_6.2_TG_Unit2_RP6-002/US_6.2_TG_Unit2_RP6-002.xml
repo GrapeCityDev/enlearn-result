@@ -1,4 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<lesson id="123" name="123">
-			<module> <teacher-display> <demo> <description><![CDATA[<p><math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>aaaaaaaaaaaa</p><table><tr><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td></tr></table>]]></description></demo></teacher-display><teacher-display> <exercise> <description><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mn>5656</mn></mfenced></math>]]></description></exercise></teacher-display></module><module> <teacher-display> <workbook> <description><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mtable><mtr><mtd><mn>2</mn></mtd></mtr><mtr><mtd><mn>3</mn></mtd></mtr></mtable></mfenced></math><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mtable><mtr><mtd><mn>2</mn></mtd></mtr><mtr><mtd><mn>3</mn></mtd></mtr></mtable></mfenced></math>]]></description></workbook></teacher-display></module></lesson>
+<lesson id="Tete" name="Test">
+    <pages></pages>
+    <standards>Test</standards>
+    <objective></objective>
+    <prerequisites>
+        <prerequisite name="Test"></prerequisite>
+    </prerequisites>
+    <module name="Test2">
+        <teacher-display>
+            <demo>
+                <description>
+                    <![CDATA[
+                    
+                    
+                    <p><math
+                    xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>aaaaaaaaaaaa</p><table><tr><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td></tr></table>
+                
+                
+                ]]>
+                </description>
+                <answer>Test</answer>
+                <assignment-name>Test</assignment-name>
+            </demo>
+        </teacher-display>
+        <teacher-display>
+            <exercise>
+                <description>
+                    <![CDATA[
+                    
+                    
+                    <math
+                    xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mn>5656</mn></mfenced></math>
+                
+                
+                ]]>
+                </description>
+                <answer></answer>
+                <assignment-name>test2</assignment-name>
+            </exercise>
+        </teacher-display>
+    </module>
+</lesson>
