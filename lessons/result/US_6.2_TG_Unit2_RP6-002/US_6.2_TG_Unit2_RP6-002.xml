@@ -13,13 +13,17 @@
                     <![CDATA[
                     
                     
+                    
+                    
                     <p><math
-                    xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>aaaaaaaaaaaa</p><table><tr><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td></tr></table>
+                    xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>Test 1234</p><table><tr><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td></tr></table>
+                
+                
                 
                 
                 ]]>
                 </description>
-                <answer>Test</answer>
+                <answer>Yes</answer>
                 <assignment-name>Test</assignment-name>
             </demo>
         </teacher-display>
@@ -29,8 +33,12 @@
                     <![CDATA[
                     
                     
+                    
+                    
                     <math
                     xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mn>5656</mn></mfenced></math>
+                
+                
                 
                 
                 ]]>
