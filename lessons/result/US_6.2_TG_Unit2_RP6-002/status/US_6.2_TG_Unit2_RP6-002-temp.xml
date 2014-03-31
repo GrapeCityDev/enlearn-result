@@ -16,6 +16,7 @@
                 ]]>
                 </description>
                 <answer></answer>
+                <assignment-name></assignment-name>
             </demo>
         </teacher-display>
         <teacher-display>
@@ -26,6 +27,8 @@
                     xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mn>5656</mn></mfenced></math>
                 ]]>
                 </description>
+                <answer></answer>
+                <assignment-name></assignment-name>
             </exercise>
         </teacher-display>
     </module>
