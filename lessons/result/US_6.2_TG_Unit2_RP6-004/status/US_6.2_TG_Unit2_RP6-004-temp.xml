@@ -9,8 +9,11 @@
     <module>
         <misc>
             <example>
-                <![CDATA[<math
-                xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>234</mn></msqrt></math>]]>
+                <![CDATA[
+                <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>234</mn></msqrt></math>
+        
+        ]]>
         </example>
     </misc>
-</module>undefined</lesson>
+</module>undefinedundefinedundefinedundefinedundefined</lesson>
