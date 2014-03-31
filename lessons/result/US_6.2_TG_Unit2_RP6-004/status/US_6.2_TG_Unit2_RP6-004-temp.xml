@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <lesson id="AA" name="BB">
+    <pages></pages>
+    <standards>AAA</standards>
+    <objective></objective>
+    <prerequisites></prerequisites>
     <module>
         <teacher-display>
             <demo>
@@ -13,8 +17,4 @@
             </demo>
         </teacher-display>
     </module>
-    <pages></pages>
-    <standards></standards>
-    <objective></objective>
-    <prerequisites></prerequisites>
 </lesson>
