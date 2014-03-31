@@ -2,7 +2,7 @@
 <lesson>
     <module>
         <misc>
-            <example></example>
-        </misc>
-    </module>
-</lesson>
+            <example>
+                <![CDATA[<table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>]]>
+    </example>
+</misc>undefined</module>undefined</lesson>
