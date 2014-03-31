@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <lesson id="AA" name="AA">
-			<pages> </pages><standards>AA</standards><objective> </objective><prerequisites> <prerequisite name="BB"> </prerequisite></prerequisites></lesson>
+    <pages></pages>
+    <standards>AA</standards>
+    <objective></objective>
+    <prerequisites>
+        <prerequisite></prerequisite>
+    </prerequisites>
+</lesson>
