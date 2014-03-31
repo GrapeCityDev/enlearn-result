@@ -4,6 +4,6 @@
     <standards>AA</standards>
     <objective></objective>
     <prerequisites>
-        <prerequisite></prerequisite>
+        <prerequisite name="aa"></prerequisite>
     </prerequisites>
 </lesson>
