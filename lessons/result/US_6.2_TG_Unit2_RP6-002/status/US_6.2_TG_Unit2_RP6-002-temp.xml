@@ -15,8 +15,8 @@
                     xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>aaaaaaaaaaaa</p><table><tr><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td></tr></table>
                 ]]>
                 </description>
-                <answer></answer>
                 <assignment-name></assignment-name>
+                <answer>A</answer>
             </demo>
         </teacher-display>
         <teacher-display>
@@ -28,7 +28,7 @@
                 ]]>
                 </description>
                 <answer></answer>
-                <assignment-name></assignment-name>
+                <assignment-name>B</assignment-name>
             </exercise>
         </teacher-display>
     </module>
