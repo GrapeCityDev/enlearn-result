@@ -2,7 +2,7 @@
 <lesson id="AA" name="AA">
     <pages></pages>
     <standards>AA</standards>
-    <objective></objective>
+    <objective>aa&lt;test&gt;&lt;/test&gt;</objective>
     <prerequisites>
         <prerequisite name="aa"></prerequisite>
     </prerequisites>
