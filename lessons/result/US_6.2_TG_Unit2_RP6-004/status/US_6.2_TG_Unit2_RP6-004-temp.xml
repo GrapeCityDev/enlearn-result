@@ -6,4 +6,9 @@
     <prerequisites>
         <prerequisite name="aa"></prerequisite>
     </prerequisites>
+    <module>
+        <misc>
+            <example></example>
+        </misc>
+    </module>
 </lesson>
