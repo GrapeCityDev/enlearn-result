@@ -1,11 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<lesson>
-    <module>
-        <misc>
-            <example>
-                <![CDATA[
-                <table><tr><td></td><td></td></tr></table>
-        ]]>
-        </example>
-    </misc>
-</module>undefinedundefinedundefined</lesson>
+<lesson></lesson>
