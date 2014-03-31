@@ -5,11 +5,6 @@
         <teacher-display>
             <demo>
                 <description>
-                    <![CDATA[
-                    AA<strong>D</strong>
-                ]]>
-                </description>
-            </demo>
-        </teacher-display>
-    </module>
-</lesson>
+                    <![CDATA[<p>AA<strong>D</strong></p><table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>]]>
+    </description>
+</demo>undefined</teacher-display>undefined</module>undefined</lesson>
