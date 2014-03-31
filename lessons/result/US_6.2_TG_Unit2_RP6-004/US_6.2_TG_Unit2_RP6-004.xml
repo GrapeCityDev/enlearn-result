@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<lesson id="AAA" name="BBB">
-			<pages> </pages><standards>CC</standards><objective> </objective><prerequisites> <prerequisite name="DD">EEE</prerequisite></prerequisites><module name="FFF"> <misc> </misc></module></lesson>
+<lesson id="AA" name="BB">
+    <pages></pages>
+    <standards>AAA</standards>
+    <objective></objective>
+    <prerequisites>
+        <prerequisite name="AA"></prerequisite>
+    </prerequisites>
+    <module name="DD">
+        <teacher-display>
+            <demo>
+                <description>
+                    <![CDATA[
+                    
+                    <table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>
+                
+                ]]>
+                </description>
+                <answer></answer>
+                <assignment-name>ASD</assignment-name>
+            </demo>
+        </teacher-display>
+    </module>
+</lesson>
