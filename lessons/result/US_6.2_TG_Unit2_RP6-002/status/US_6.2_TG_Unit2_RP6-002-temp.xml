@@ -12,13 +12,15 @@
                 <description>
                     <![CDATA[
                     
+                    
                     <p><math
                     xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>aaaaaaaaaaaa</p><table><tr><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td></tr></table>
                 
+                
                 ]]>
                 </description>
-                <assignment-name>test</assignment-name>
                 <answer>Test</answer>
+                <assignment-name></assignment-name>
             </demo>
         </teacher-display>
         <teacher-display>
@@ -26,8 +28,10 @@
                 <description>
                     <![CDATA[
                     
+                    
                     <math
                     xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mn>5656</mn></mfenced></math>
+                
                 
                 ]]>
                 </description>
