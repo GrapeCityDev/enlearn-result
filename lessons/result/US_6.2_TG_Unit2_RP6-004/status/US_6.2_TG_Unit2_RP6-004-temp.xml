@@ -4,7 +4,13 @@
         <teacher-display>
             <demo>
                 <description>
-                    <![CDATA[<table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>]]>
-        </description>
-    </demo>
-</teacher-display>undefined</module>undefined</lesson>
+                    <![CDATA[
+                    
+                    <table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>
+                
+                ]]>
+                </description>
+            </demo>
+        </teacher-display>
+    </module>
+</lesson>
