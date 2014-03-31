@@ -42,9 +42,7 @@
                 <answer></answer>
                 <assignment-name>test2</assignment-name>
             </exercise>
+            <workbook></workbook>
         </teacher-display>
-        <misc>
-            <example></example>
-        </misc>
     </module>
 </lesson>
