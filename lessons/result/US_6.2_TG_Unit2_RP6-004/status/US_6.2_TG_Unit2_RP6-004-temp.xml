@@ -3,8 +3,10 @@
     <pages></pages>
     <standards>AAA</standards>
     <objective></objective>
-    <prerequisites></prerequisites>
-    <module>
+    <prerequisites>
+        <prerequisite name="AA"></prerequisite>
+    </prerequisites>
+    <module name="DD">
         <teacher-display>
             <demo>
                 <description>
