@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <lesson>
-			<module> <misc> <example> </example></misc><teacher-display> <demo> <description><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>]]></description></demo></teacher-display><misc> <table> </table></misc></module></lesson>
+			<module> <teacher-display> <demo> <description><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>]]></description></demo></teacher-display><misc> <table> </table></misc></module></lesson>
