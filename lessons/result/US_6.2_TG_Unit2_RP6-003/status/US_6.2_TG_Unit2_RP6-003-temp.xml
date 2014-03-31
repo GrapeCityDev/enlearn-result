@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <lesson id="">
-			<module> <teacher-display> <exercise> <answer> </answer><xs:description xmlns:xs="http://www.w3.org/2001/XMLSchema"> </xs:description><description><![CDATA[123
+			<module> <teacher-display> <exercise> <answer> </answer><xs:description xmlns:xs="http://www.w3.org/2001/XMLSchema"> </xs:description><description>123
 测试
-
+ 
 
 1
 3
@@ -14,4 +14,4 @@
 
 
  
-]]></description></exercise></teacher-display></module></lesson>
+</description></exercise></teacher-display></module></lesson>
