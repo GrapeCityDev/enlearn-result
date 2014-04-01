@@ -8,12 +8,7 @@
                     xmlns:xs="http://www.w3.org/2001/XMLSchema">
                 </xs:description>
                 <description>
-                    <![CDATA[
-                
-asf
-as
-f    <ta
-                ]]>
+                    <![CDATA[<table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table><p></p>]]>
                 </description>
             </exercise>
         </teacher-display>
