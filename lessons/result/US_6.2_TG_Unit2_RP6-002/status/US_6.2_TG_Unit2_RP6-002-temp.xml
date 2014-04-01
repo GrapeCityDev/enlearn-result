@@ -9,9 +9,7 @@
     <module name="Test2">
         <teacher-display>
             <demo>
-                <description>
-                    <![CDATA[<table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>]]>
-                </description>
+                <description></description>
                 <answer>Yes</answer>
                 <assignment-name>Test</assignment-name>
             </demo>
@@ -28,8 +26,12 @@
                     
                     
                     
+                    
+                    
                     <math
                     xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mn>5656</mn></mfenced></math>
+                
+                
                 
                 
                 
