@@ -4,16 +4,16 @@
         <misc>
             <example>
                 <![CDATA[
+                
                 <math
                 xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>12333333</mn></msqrt></math>
+            
             ]]>
             </example>
         </misc>
         <teacher-display>
             <exercise>
-                <description>
-                    <![CDATA[<img class="text-body_notitlepages" src="../lessons/source/US_6.2_TG_Unit2_RP6-007/US_6.2_TG_Unit2_RP6-001_files/384676.jpg" alt=""><img class="Basic-Text-Frame" src="../lessons/source/US_6.2_TG_Unit2_RP6-007/US_6.2_TG_Unit2_RP6-001_files/385526.png" alt="">]]>
-                </description>
+                <description></description>
             </exercise>
             <demo>
                 <description></description>
