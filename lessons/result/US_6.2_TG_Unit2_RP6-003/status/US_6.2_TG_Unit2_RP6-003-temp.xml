@@ -8,20 +8,7 @@
                     xmlns:xs="http://www.w3.org/2001/XMLSchema">
                 </xs:description>
                 <description>
-                    <![CDATA[123ddd
-测试
- 
-
-1
-3
-
-
-4
-2
-
-
- 
-]]>
+                    <![CDATA[<ta]]>
                 </description>
             </exercise>
         </teacher-display>
