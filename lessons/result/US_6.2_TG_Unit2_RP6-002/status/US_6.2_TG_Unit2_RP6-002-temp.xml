@@ -6,12 +6,15 @@
     <prerequisites>
         <prerequisite name="Test"></prerequisite>
     </prerequisites>
-    <module name="Test2">
+    <module name="   Test2">
         <teacher-display>
             <demo>
                 <description>
                     <![CDATA[
+                    
+                    <![CDATA[
                     <table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>
+                ]]>
                 ]]>
                 </description>
                 <answer>Yes</answer>
@@ -21,6 +24,8 @@
         <teacher-display>
             <exercise>
                 <description>
+                    <![CDATA[
+                    
                     <![CDATA[
                     
                     
@@ -113,6 +118,7 @@
                 
                 
                 
+                ]]>
                 ]]>
                 </description>
                 <answer></answer>
