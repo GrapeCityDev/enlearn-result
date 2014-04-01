@@ -1,11 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<lesson>
-    <module>
+<lesson id="Test2" name="Test">
+    <pages></pages>
+    <standards>Test</standards>
+    <objective></objective>
+    <prerequisites>
+        <prerequisite name="Test"></prerequisite>
+    </prerequisites>
+    <module name="Test2">
+        <teacher-display>
+            <demo>
+                <description>
+                    <![CDATA[
+                    
+                    
+                    
+                    
+                    
+                    
+                    <p><math
+                    xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>Test 1234</p><table><tr><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td></tr></table>
+                
+                
+                
+                
+                
+                
+                ]]>
+                </description>
+                <answer>Yes</answer>
+                <assignment-name>Test</assignment-name>
+            </demo>
+        </teacher-display>
         <teacher-display>
             <exercise>
                 <description>
-                    <![CDATA[<table><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table><div></div>]]>
+                    <![CDATA[
+                    
+                    
+                    
+                    
+                    
+                    
+                    <math
+                    xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mn>5656</mn></mfenced></math>
+                
+                
+                
+                
+                
+                
+                ]]>
                 </description>
+                <answer></answer>
+                <assignment-name>test2</assignment-name>
             </exercise>
         </teacher-display>
     </module>
