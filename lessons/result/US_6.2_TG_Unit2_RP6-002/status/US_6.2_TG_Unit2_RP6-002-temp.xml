@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <lesson id="Test2" name="Test">
-    <pages></pages>
+    <pages/>
     <standards>Test</standards>
-    <objective></objective>
+    <objective/>
     <prerequisites>
-        <prerequisite name="Test"></prerequisite>
+        <prerequisite name="Test"/>
     </prerequisites>
     <module name="Test2">
         <teacher-display>
             <demo>
-                <description>
-                    <![CDATA[
-                    <table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>
-                ]]>
+                <description>&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;td&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+                    
+                    
+                    <![CDATA[<table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>]]>
                 </description>
                 <answer>Yes</answer>
                 <assignment-name>Test</assignment-name>
@@ -22,7 +31,6 @@
             <exercise>
                 <description>
                     <![CDATA[
-                    
                     
                     
                     
@@ -76,10 +84,9 @@
                 
                 
                 
-                    
-                ]]>
+                    ]]>
                 </description>
-                <answer></answer>
+                <answer/>
                 <assignment-name>test2</assignment-name>
             </exercise>
         </teacher-display>
