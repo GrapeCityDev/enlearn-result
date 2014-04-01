@@ -10,9 +10,7 @@
         <teacher-display>
             <demo>
                 <description>
-                    <![CDATA[
-                    <table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>
-                ]]>
+                    <![CDATA[<table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>]]>
                 </description>
                 <answer>Yes</answer>
                 <assignment-name>Test</assignment-name>
