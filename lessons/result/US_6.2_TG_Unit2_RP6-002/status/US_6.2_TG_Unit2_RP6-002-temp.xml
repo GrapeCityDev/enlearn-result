@@ -34,22 +34,8 @@
         <teacher-display>
             <exercise>
                 <description>
-                    <![CDATA[
-                    
-                    
-                    
-                    
-                    
-                    
-                    <math
-                    xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mn>5656</mn></mfenced></math>
-                
-                
-                
-                
-                
-                
-                ]]>
+                    <![CDATA[<math
+                    xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mn>5656</mn></mfenced></math>]]>
                 </description>
                 <answer></answer>
                 <assignment-name>test2</assignment-name>
