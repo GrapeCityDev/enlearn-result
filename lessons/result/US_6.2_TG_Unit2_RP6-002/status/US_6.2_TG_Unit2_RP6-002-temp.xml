@@ -10,8 +10,10 @@
         <teacher-display>
             <demo>
                 <description>
-                    <![CDATA[<math
-                    xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>]]>
+                    <![CDATA[
+                    <p><math
+                    xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math></p><table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>
+                ]]>
                 </description>
                 <answer>Yes</answer>
                 <assignment-name>Test</assignment-name>
@@ -36,8 +38,10 @@
                     
                     
                     
+                    
                     <math
                     xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mn>5656</mn></mfenced></math>
+                
                 
                 
                 
