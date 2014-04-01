@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<lesson id="Tete" name="Test">
+<lesson id="Test2" name="Test">
     <pages></pages>
     <standards>Test</standards>
     <objective></objective>
@@ -15,8 +15,12 @@
                     
                     
                     
+                    
+                    
                     <p><math
                     xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>Test 1234</p><table><tr><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td></tr></table>
+                
+                
                 
                 
                 
@@ -35,8 +39,12 @@
                     
                     
                     
+                    
+                    
                     <math
                     xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mn>5656</mn></mfenced></math>
+                
+                
                 
                 
                 
