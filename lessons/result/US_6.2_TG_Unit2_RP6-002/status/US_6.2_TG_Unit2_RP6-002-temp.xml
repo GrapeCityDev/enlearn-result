@@ -9,7 +9,10 @@
     <module name="Test2">
         <teacher-display>
             <demo>
-                <description></description>
+                <description>
+                    <![CDATA[<math
+                    xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math>]]>
+                </description>
                 <answer>Yes</answer>
                 <assignment-name>Test</assignment-name>
             </demo>
