@@ -9,9 +9,7 @@
     <module name="Test2">
         <teacher-display>
             <demo>
-                <description>
-                    <![CDATA[<span></span>]]>
-                </description>
+                <description></description>
                 <answer>Yes</answer>
                 <assignment-name>Test</assignment-name>
             </demo>
