@@ -9,7 +9,7 @@
                 </xs:description>
                 <description>
                     <![CDATA[<table><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table><p><math
-                    xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>1212</mn></msqrt></math></p>]]>
+                    xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>1212</mn></msqrt></math></p><p>1</p><p>2</p><p>2</p><p>2</p><p>12</p>]]>
                 </description>
             </exercise>
         </teacher-display>
