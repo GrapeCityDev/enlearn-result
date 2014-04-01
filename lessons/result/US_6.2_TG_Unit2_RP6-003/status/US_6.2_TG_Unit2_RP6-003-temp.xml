@@ -8,14 +8,7 @@
                     xmlns:xs="http://www.w3.org/2001/XMLSchema">
                 </xs:description>
                 <description>
-                    <![CDATA[asd
-as
-dasdAsdas
-d
-
-asd
-
-asd]]>
+                    <![CDATA[<p>sd</p><p>ad</p><p>as</p><p>d</p><p>asd</p><p>as</p><p>d</p>]]>
                 </description>
             </exercise>
         </teacher-display>
