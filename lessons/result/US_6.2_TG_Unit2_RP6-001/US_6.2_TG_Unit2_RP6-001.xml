@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lesson id="Test1" name="Test2">
+    <pages></pages>
+    <standards>Standard</standards>
+    <objective></objective>
+    <prerequisites>
+        <prerequisite name="Pre"></prerequisite>
+    </prerequisites>
+    <module name="name">
+        <teacher-display>
+            <exercise>
+                <description>
+                    <![CDATA[<table><tr><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td></tr></table><p></p><p><math
+                    xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>123</mn></msqrt></math></p>]]>
+                </description>
+                <answer>Test</answer>
+                <assignment-name>test</assignment-name>
+            </exercise>
+        </teacher-display>
+    </module>
+</lesson>
